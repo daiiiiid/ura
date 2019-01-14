@@ -65,8 +65,9 @@ li {
   margin-top: 30px;
 }
 
+/*変更点　100→400*/
 .contact-form {
-  padding-top: 100px;
+  padding-top: 400px;
 }
 
 input, textarea {
