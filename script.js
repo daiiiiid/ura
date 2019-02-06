@@ -8,11 +8,3 @@ $('ul', this).stop().slideDown('fast');
 $('ul', this).stop().slideUp('fast');
 });
 });
-
-  
-  
-  
-$('.list-item').click(function() {
-  $(this).css('color', 'red');
-  });
-});
